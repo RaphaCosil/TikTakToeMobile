@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TikTakToeGame</string>
+    <string name="empty">empty</string>
+    <string name="logo_tiktaktoe">Logo TikTakToe</string>
+    <string name="android">Android</string>
+    <string name="duo">Duo</string>
+    <string name="chatgpt">ChatGPT</string>
 </resources>

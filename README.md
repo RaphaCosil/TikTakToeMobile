@@ -1,5 +1,4 @@
 <h1 align="center">TikTakToe Game </h1>
-<h3 align="left">Hi , I'm Rapha</h3>
 <p align="left">
   This is a study project using Mobile concepts to create a tic-tac-toe game.
 </p>
